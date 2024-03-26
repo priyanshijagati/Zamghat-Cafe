@@ -1,3 +1,3 @@
 # Zamghat-Cafe
-https://zamghat.onrender.com/
+(https://priyanshijagati.github.io/Zamghat-Cafe/)
 Discover a tailored online experience at Zamghat Restaurant, Jabalpur, with my  website for hassle-free ordering and exploration.This website is specially made on paid order
